@@ -37,11 +37,6 @@ Backend Software Engineer focused on building robust data pipelines, backend aut
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoSuchElementFound&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Archit's GitHub Stats" />
-</p>
 
 ---
 
