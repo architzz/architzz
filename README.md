@@ -43,3 +43,4 @@ Backend Software Engineer focused on building robust data pipelines, backend aut
 ### 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/archit-pal-032033202/)
+- 💼 [Mail](www.architpal2001@gmail.com)
